@@ -1,0 +1,11 @@
+
+<project xmlns="http://maven.apache.org/POM/4.0.0">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.fleet</groupId>
+  <artifactId>energy-ingestion-engine</artifactId>
+  <version>1.0</version>
+  <properties>
+    <java.version>17</java.version>
+    <spring.boot.version>3.2.5</spring.boot.version>
+  </properties>
+</project>

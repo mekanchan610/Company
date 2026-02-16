@@ -1,0 +1,9 @@
+
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5432/energy
+    username: fleet
+    password: fleet
+  jpa:
+    hibernate:
+      ddl-auto: update
